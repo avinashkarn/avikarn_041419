@@ -3,9 +3,10 @@ layout: regular
 ---
 
 
-<object data="CV_Karn,A.pdf" type="application/pdf" width="600" height="800">
-  <p>Alternative text - include a link <a href="CV_Karn,A.pdf">to the PDF!</a></p>
-</object>
+<script src='/path-to-your-javascript-file/pdfobject.js'></script>
+<script>
+PDFObject.embed("https://www.dropbox.com/home/docs/Resume%20and%20stuff?preview=CV_Karn%2CA.pdf");
+</script>
 
 
 
