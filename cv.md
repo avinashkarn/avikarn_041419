@@ -2,18 +2,7 @@
 layout: regular
 ---
 
-<script src="CV_Karn,A.pdf"></script>
-
-<h1>PDF.js Previous/Next example</h1>
-
-<div>
-  <button id="prev">Previous</button>
-  <button id="next">Next</button>
-  &nbsp; &nbsp;
-  <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
-</div>
-
-<canvas id="the-canvas"></canvas>
+<embed src="CV_Karn,A.pdf" width="900px" height="2100px" style="max-width:95%" />
 
 
 
