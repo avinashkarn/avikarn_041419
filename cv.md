@@ -2,7 +2,7 @@
 layout: regular
 ---
 
-<embed src="CV_Karn,A.pdf" width="900px" height="2100px" style="max-width:95%" />
+<embed https://drive.google.com/open?id=0B4BqCAGVUeCgT0JjdThxalBjTFE />
 
 
 
