@@ -3,10 +3,7 @@ layout: regular
 ---
 
 
-<script src='/path-to-your-javascript-file/pdfobject.js'></script>
-<script>
-PDFObject.embed("https://www.dropbox.com/home/docs/Resume%20and%20stuff?preview=CV_Karn%2CA.pdf");
-</script>
+<embed src=”CV_Karn,A.pdf” width=”600″ height=”500″ alt=”pdf” pluginspage=”http://www.adobe.com/products/acrobat/readstep2.html”>
 
 
 
