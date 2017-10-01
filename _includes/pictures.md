@@ -1,2 +1,5 @@
-
-<iframe width="600" height="500" style="max-width:95%"  src="http://s280.photobucket.com/user/Avi_Karn/embed/slideshow/website"></iframe>
+<section id="pictures">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+              <iframe width="600" height="500" style="max-width:95%"  src="http://s280.photobucket.com/user/Avi_Karn/embed/slideshow/website"></iframe>
