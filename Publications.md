@@ -6,8 +6,8 @@ layout: regular
 <section id="Publications">
     <div class="container">
         <div class="row">
-            <div class="col-lg-10 col-lg-offset-2 text-left">
-                    <h2 class="section-heading">Publications</h2>
+            <div class="col-lg-10 col-lg-offset-1 text-left">
+                <h2 class="section-heading">Publications</h2>
 
                 <p><a href="http://www.g3journal.org/content/7/4/1157" target="_blank">Genetic Analysis of Teosinte Alleles for Kernel                         Composition Traits in Maize</a> </p>
                 <p> A Karn, JD Gillman, SA Flint-Garcia</p>
