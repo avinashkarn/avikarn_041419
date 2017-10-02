@@ -15,8 +15,7 @@ layout: regular
 <hr style="clear: both;" />
 
      </div>
-   </div>
-   </div>
+</div>
 
 
 
