@@ -16,7 +16,6 @@ layout: regular
 
      </div>
    </div>
- </div>
 
 
 
