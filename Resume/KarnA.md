@@ -2,27 +2,25 @@ I am a PhD candidate in bioinformatics, a first class honours graduate in comput
 
 ## Education
 
-#### 2012–present—Bioinformatics PhD Candidate—University of British Columbia
+#### 2012–2017 PhD Plant breeding, Genetics & Genomics — University of Missouri Columbia, USA
 
-NSERC CGS-M and CGS-D scholarship student in bioinformatics. Coursework
-in bioinformatics, statistics, machine learning, and genetics.
-GPA 4.26 (93%)
+•	Received Dr. Marcus Zuber endowment fellowship
+•	Presented research at Maize genetics conference, Plant Animal Genetics conference and The Tri-Societies meeting (ASA, CSSA, SSSA)       International meetings
+•	Recipient of 2017 Research in Plant Biology Award and Life Sciences Week Research Recognition award
 
-#### 1998–2004—BASc Computer Engineering—Simon Fraser University
+#### 2008–2012 BSc Agricultural Sciences — Truman State University, USA
 
-First class honours cholarship student in computer engineering. Completed an honours undergraduate thesis and two full years of co-op work experience at
-three companies. GPA 3.85
+•	Received President’s Honorary Scholarship and Dr. Max E. Bell Scholarship
+•	Presented research at student research conferences at Truman, Adair County extension center and annual Maize genetics conference
 
 ## Work Experience
 
-#### 2008–2012—Computational biologist—BC Cancer Genome Sciences Centre
+#### 2018–present Computational biologist and Quantitative Geneticist — CORNELL UNIVERSITY, Geneva, NY
+•	Analyzed of large-scale genotyping data (from Genotyping-by-Sequencing, Amplicon Sequencing, Illumina resequencing, and/or PacBio de     novo sequencing) such as SNP and Haplotype calling. 
+•	Developed genetic markers for traits like powdery mildew disease resistance and fruit quality, to assist breeders with marker assisted   selection; conducted statistical analysis of large-scale data sets from DNA sequencing and trait data from related and unrelated vines   for genetic mapping in Lep-MAP3, QTL mapping in R, genome wide association studies in TASSEL/FarmCPU/GAPIT.
+•	Managed grapevine breeding database www.VitisBase.org , and led setting up trials and phenotype data collection on Field Book android   application.
 
-Developed the genome sequence assembly software package, ABySS. This
-heavily parallel and distributed software system, which uses both MPI
-and OpenMP for parallel computation, was the first system to assemble
-a human genome using short-read sequencing technology.
-
-#### 2004–2007—Embedded firmware developer—Pathway Connectivity Inc.
+#### 2017 May–2017 Dec Quantitative Geneticist — UNIVERSITY of ILLINOIS, Carl R. Woese Institute for Genomic Biology	                  Urbana–Champaign, IL, USA
 
 Developed the firmware for Pathway's product line of small, low-cost lighting control devices. These small devices, which use Atmel's AVR and ARM microcontrollers, convert between a variety of lighting-control protocols. Modernized the lighting control industry in developing a device to adapt legacy lighting control equipment to Ethernet. This industry-changing product, the Pathport, won an award for best new product at the industry trade show, Lighting Dimensions International.
 
